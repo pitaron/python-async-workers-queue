@@ -1,5 +1,5 @@
 # python-async-workers-queue
-Shows how to create async workers
+Shows how to create async workers with queue.
 
 ### Requires
 
